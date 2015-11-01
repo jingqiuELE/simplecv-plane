@@ -1,0 +1,7 @@
+sudo apt-get install ipython python-opencv python-scipy python-numpy python-pygame python-setuptools python-pip
+sudo pip install https://github.com/sightmachine/SimpleCV.git 
+wget https://...... #download the file into /home/pi
+sudo pip install file:///home/pi/master --download-cache /home/pi/tmp
+get UV4L driver for raspbian:
+http://www.linux-projects.org/modules/sections/index.php?op=viewarticle&artid=14
+
